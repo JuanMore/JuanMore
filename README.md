@@ -1,4 +1,4 @@
-Hi there! 
+Hi there! 👋
 I'm a Front-end Web Developer
 
 - 🔭 I’m currently working on a digital agency site.
