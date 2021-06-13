@@ -6,5 +6,5 @@ I'm a Front-end Web Developer
 - 👯 I’m looking for a role as a Front-end developer.
 - 💬 Ask me about anything!
 - 📫 How to reach me: https://twitter.com/moreno_dev or morenostudent1@gmail.com
-- ⚡ Fun fact: I'm a dad of one! I have an AS Degree in CS however I'm self-taught in Front-end development.
+- ⚡ Fun facts: I'm a dad of one! I have an AS Degree in CS however I'm self-taught in Front-end development.
 
