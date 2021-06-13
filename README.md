@@ -1,7 +1,7 @@
 Hi there! 👋
 I'm a Front-end Web Developer
 
-- 🔭 I’m currently working on a digital agency site.
+- 🔭 I’m currently working on a photgraphy website for a client.
 - 🌱 I’m always learning JavaScript, currently touching up on NodeJs and Express as well.
 - 👯 I’m looking for a role as a Front-end developer.
 - 💬 Ask me about anything!
