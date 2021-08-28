@@ -1,5 +1,5 @@
 Hi there! 👋
-I'm a Front-end Web Developer
+I'm a Front-End Web Developer
 
 - 🔭 I’m currently working on an express app implementing full CRUD functionality with modern bootstrap UI.
 - 🌱 I’m always learning JavaScript, currently touching up on NodeJs and Express.
