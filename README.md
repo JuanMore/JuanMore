@@ -1,5 +1,5 @@
 Hi there! 👋
-I'm a Front-End Web Developer
+I'm Juan, a Front-End Web Developer from Las Vegas, NV. 
 
 - 🔭 I’m currently working on an ExpressJS web app implementing full CRUD functionality with modern bootstrap for the UI, NodeJS and MongoDB.
 - 🌱 I’m always learning JavaScript, currently touching up on NodeJS and ExpressJS.
