@@ -26,3 +26,10 @@ ___
   ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
   
 </div>
+
+<h2>Latest Project:</h2>
+
+<h4>Build Guild | A custom PC builder community</h4>
+View demo: http://buildguild.online/
+Source Code: https://github.com/JuanMore/Build-Guild
+<img width="1397" alt="buildguild" src="https://user-images.githubusercontent.com/20747118/143952170-da16536b-b062-4702-a84e-a831748be729.png">
