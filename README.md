@@ -1,8 +1,8 @@
 Hi there! 👋
 I'm Juan, a Front-End Web Developer from Las Vegas, NV. 
 
-- 🔭 I’m currently working on a full stack application using Express, Node; ejs, mongo and bootstrap.
-- 🌱 I’m always focused on developing my skills as a developer.
+- 🔭 I’m currently working on a full stack application using Express, Node; EJS, MongoDB, Bootstrap and Passport.
+- 🌱 I'm currenlty wading through ReactJS and I have an interest in discovering SQL and Tailwind CSS.
 - 👯 I’m looking for a role as a Front-End Developer.
 - 💬 Ask me about anything!
 - 📫 How to reach me: https://twitter.com/moreno_dev or info@juanmoreno.dev
