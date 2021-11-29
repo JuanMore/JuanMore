@@ -32,8 +32,9 @@ ___
 
 <h2>Latest Project:</h2>
 
-<h4>Build Guild | A custom PC builder community</h4>
+<h4>Build Guild | A Custom PC Builder Community Platform</h4>
 View demo: http://buildguild.online/
+<br>
 Source Code: https://github.com/JuanMore/Build-Guild
-
+<br>
 <img width="1397" alt="buildguild" src="https://user-images.githubusercontent.com/20747118/143952170-da16536b-b062-4702-a84e-a831748be729.png">
