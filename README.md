@@ -1,5 +1,5 @@
 Hi there! 👋  <br>
-I'm Juan, a Front-End Web Developer from Las Vegas, NV. 
+I'm Juan, Front-End Web Developer from Las Vegas, NV. 
 ___
 
 - 🔭 I’m currently working on a full stack application using Express, Node; EJS, MongoDB, Bootstrap and Passport.
