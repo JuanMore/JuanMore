@@ -1,4 +1,4 @@
-Hi there! 👋
+Hi there! 👋 
 I'm Juan, a Front-End Web Developer from Las Vegas, NV. 
 ___
 
