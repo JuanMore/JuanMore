@@ -37,4 +37,6 @@ View demo: http://buildguild.online/
 <br>
 Source Code: https://github.com/JuanMore/Build-Guild
 <br>
+<br>
+<p>Technology used: HTML, Bootstrap, EJS, MongoDB, Passport and ExpressJS
 <img width="1397" alt="buildguild" src="https://user-images.githubusercontent.com/20747118/143952170-da16536b-b062-4702-a84e-a831748be729.png">
