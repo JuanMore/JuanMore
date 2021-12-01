@@ -34,7 +34,7 @@ ___
 <h2>Latest Projects:</h2>
 
 <h4>1) Build Guild | A Custom PC Builder Community Platform</h4>
-View demo: http://buildguild.online/
+View demo: <a href="http://buildguild.online/" target="_blank"> buildguild.online </a>
 <br>
 Source Code: <a href="https://github.com/JuanMore/Build-Guild"> Build Guild </a>
 <br>
