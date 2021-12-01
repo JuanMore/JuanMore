@@ -40,4 +40,6 @@ Source Code: https://github.com/JuanMore/Build-Guild
 <br>
 <br>
 <p>Technology used: HTML, Bootstrap, EJS, MongoDB, Passport and ExpressJS
-<img width="1397" alt="buildguild" src="https://user-images.githubusercontent.com/20747118/143952170-da16536b-b062-4702-a84e-a831748be729.png">
+  
+![Screen Shot 2021-11-30 at 7 11 29 PM](https://user-images.githubusercontent.com/20747118/144165333-5de47d80-a53d-4fc1-860e-e1957aaeca35.png)
+
