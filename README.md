@@ -50,6 +50,7 @@ Source Code: <a href="https://github.com/JuanMore/YelpCamp"> YelpCamp </a>
 <br>
 <br>
 <p>Technology used: HTML, Bootstrap, EJS, MongoDB; Passport and ExpressJS with Cloudinary for storage and Mapbox for dynamic maps.
- <br>
+<br>
+  
 ![Screen Shot 2021-12-01 at 12 28 59 AM](https://user-images.githubusercontent.com/20747118/144198988-61858d10-6273-435d-909a-0dfeabacab1f.png)
 
