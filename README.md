@@ -31,7 +31,7 @@ ___
 ___
 
 
-<h2>Latest Project:</h2>
+<h2>Latest Projects:</h2>
 
 <h4>Build Guild | A Custom PC Builder Community Platform</h4>
 View demo: http://buildguild.online/
@@ -42,4 +42,14 @@ Source Code: https://github.com/JuanMore/Build-Guild
 <p>Technology used: HTML, Bootstrap, EJS, MongoDB, Passport and ExpressJS
   
 ![Screen Shot 2021-11-30 at 7 11 29 PM](https://user-images.githubusercontent.com/20747118/144165333-5de47d80-a53d-4fc1-860e-e1957aaeca35.png)
+  
+<h4>YelpCamp | Udemy Web Developer Bootcamp final</h4>
+View demo: https://stark-caverns-80569.herokuapp.com/campgrounds
+<br>
+Source Code: <a href="https://github.com/JuanMore/YelpCamp"> YelpCamp </a>
+<br>
+<br>
+<p>Technology used: HTML, Bootstrap, EJS, MongoDB; Passport and ExpressJS with Cloudinary for storage and Mapbox for dynamic maps.
+ <br>
+![Screen Shot 2021-12-01 at 12 28 59 AM](https://user-images.githubusercontent.com/20747118/144198988-61858d10-6273-435d-909a-0dfeabacab1f.png)
 
