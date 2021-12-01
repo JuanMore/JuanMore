@@ -8,7 +8,7 @@ ___
 - 💬 Ask me about anything!
 - 📫 How to reach me: https://twitter.com/moreno_dev or info@juanmoreno.dev
 - ⚡ Check out: https://www.polywork.com/moreno_dev
-- ⚡ Fun facts: I'm a dad of one! I have an AS Degree in CS and I'm self-taught in Front-End Web Development.
+- ⚡ Fun facts: I'm a dad of one! I have an AS Degree in CS and I'm self-taught in Front-End Web Development and I love to go fishing, airsoft and hiking.
 
 ___
 <div align="center">
