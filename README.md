@@ -40,8 +40,9 @@ Source Code: <a href="https://github.com/JuanMore/Build-Guild"> Build Guild </a>
 <br>
 <br>
 <p>Technology used: HTML, Bootstrap, EJS, MongoDB, Passport and ExpressJS
-  
-![Screen Shot 2021-11-30 at 7 11 29 PM](https://user-images.githubusercontent.com/20747118/144165333-5de47d80-a53d-4fc1-860e-e1957aaeca35.png)
+ 
+<img width="1437" alt="buildguild" src="https://user-images.githubusercontent.com/20747118/144349900-88511e24-a1aa-4916-8020-0fba4879e091.png">
+
   
 <h4>2) YelpCamp | Udemy Web Developer Bootcamp final</h4>
 View demo: https://stark-caverns-80569.herokuapp.com/campgrounds
