@@ -43,15 +43,4 @@ Source Code: <a href="https://github.com/JuanMore/Build-Guild"> Build Guild </a>
  
 <img width="1437" alt="buildguild" src="https://user-images.githubusercontent.com/20747118/144349900-88511e24-a1aa-4916-8020-0fba4879e091.png">
 
-  
-<h4>2) YelpCamp | Udemy Web Developer Bootcamp final</h4>
-View demo: https://stark-caverns-80569.herokuapp.com/campgrounds
-<br>
-Source Code: <a href="https://github.com/JuanMore/YelpCamp"> YelpCamp </a>
-<br>
-<br>
-<p>Technology used: HTML, Bootstrap, EJS, MongoDB; Passport and ExpressJS with Cloudinary for storage and Mapbox for dynamic maps.
-<br>
-  
-![Screen Shot 2021-12-01 at 12 28 59 AM](https://user-images.githubusercontent.com/20747118/144198988-61858d10-6273-435d-909a-0dfeabacab1f.png)
-
+ 
