@@ -39,7 +39,7 @@ View demo: <a href="http://buildguild.online/" target="_blank"> buildguild.onlin
 Source Code: <a href="https://github.com/JuanMore/Build-Guild"> Build Guild </a>
 <br>
 <br>
-<p>Technology used: HTML, Bootstrap, EJS, MongoDB, Passport and ExpressJS
+<p>Technology used: HTML, Bootstrap, EJS, MongoDB, Passport; Node.jsand Express.js
  
 <img width="1437" alt="buildguild" src="https://user-images.githubusercontent.com/20747118/144349900-88511e24-a1aa-4916-8020-0fba4879e091.png">
 
