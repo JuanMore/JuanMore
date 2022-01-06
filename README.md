@@ -43,4 +43,16 @@ Source Code: <a href="https://github.com/JuanMore/Build-Guild"> Build Guild </a>
  
 <img width="1437" alt="buildguild" src="https://user-images.githubusercontent.com/20747118/144349900-88511e24-a1aa-4916-8020-0fba4879e091.png">
 
+  
+<h4>React Github Profile App </h4>
+
+Deployed with Vercel at: https://reactgithubfinder-sable.vercel.app/user/JuanMore 
+<br />
+Built with React, Tailwind CSS and DaisyUI 
+
+
+<img width="1414" alt="Screen Shot 2022-01-05 at 4 19 30 PM" src="https://user-images.githubusercontent.com/20747118/148308504-18fc2cbf-8086-44d2-99fa-87f422ee4bd8.png">
+
+<img width="1385" alt="Screen Shot 2022-01-05 at 4 22 37 PM" src="https://user-images.githubusercontent.com/20747118/148308588-0a1e6ab2-f641-459f-8887-015bff1ed21d.png">
+
  
