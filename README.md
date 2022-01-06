@@ -44,7 +44,7 @@ Source Code: <a href="https://github.com/JuanMore/Build-Guild"> Build Guild </a>
 <img width="1437" alt="buildguild" src="https://user-images.githubusercontent.com/20747118/144349900-88511e24-a1aa-4916-8020-0fba4879e091.png">
 
   
-<h4>React Github Profile App </h4>
+<h4>2) React Github Profile App - Credit React Front to Back 2022 Brad Traversy</h4>
 
 Deployed with Vercel at: https://reactgithubfinder-sable.vercel.app/user/JuanMore 
 <br />
