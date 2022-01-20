@@ -41,7 +41,7 @@ Source Code: <a href="https://github.com/JuanMore/Build-Guild"> Build Guild </a>
 <br>
 <p>Technology used: HTML, CSS, Bootstrap, EJS, MongoDB, Passport.js; Node.js and Express.js
  
-<img width="1437" alt="buildguild" src="https://user-images.githubusercontent.com/20747118/144349900-88511e24-a1aa-4916-8020-0fba4879e091.png">
+![Screen Shot 2022-01-20 at 1 02 07 AM](https://user-images.githubusercontent.com/20747118/150307049-7203da2d-25ad-4da9-96fc-a7a66e412db1.png)
 
   
 <h4>2) React Github Profile App - Credit React Front to Back 2022 Brad Traversy</h4>
