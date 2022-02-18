@@ -4,7 +4,7 @@ ___
 
 - 🔭 I’m currently working on front-end focused website using React.js.
 - 🌱 I'm currenlty learning React.js and I have an interest in discovering SQL and Material UI.
-- 👯 I’m looking for a role as a Front-End Developer.
+- 👯 I’m looking for a role as a Front-End Developer, Full Stack Developer or Junior Software Developer. 
 - 💬 Ask me about anything!
 - 📫 How to reach me: https://twitter.com/moreno_dev or info@juanmoreno.dev
 - ⚡ Check out: https://www.polywork.com/moreno_dev
