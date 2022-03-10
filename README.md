@@ -36,7 +36,7 @@ ___
 <h4>1) Build Guild | A Custom PC Builder Community Platform</h4>
 View demo: <a href="https://buildguild.online/pages" target="_blank"> Build Guild </a>
 <br>
-Source Code: <a href="https://github.com/JuanMore/Build-Guild"> Build Guild </a>
+Source Code: <a href="https://github.com/JuanMore/Build-Guild"> Build Guild Repo </a>
 <br>
 <br>
 <p>Technology used: HTML, CSS, Bootstrap, EJS, MongoDB, Passport.js; Node.js and Express.js
