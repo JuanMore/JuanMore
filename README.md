@@ -2,7 +2,7 @@ Hi there! 👋  <br>
 I'm Juan, Front-End Web Developer from Las Vegas, NV. 
 ___
 
-- 🔭 I’m currently working on front-end focused website using React.js.
+- 🔭 I’m currently working a Full stack React + Firebase application. 
 - 🌱 I'm currenlty learning React.js and I have an interest in discovering SQL and Material UI.
 - 👯 I’m looking for a role as a Front-End Developer, Full Stack Developer or Junior Software Developer. 
 - 💬 Ask me about anything!
