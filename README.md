@@ -1,5 +1,5 @@
 Hi there! 👋  <br>
-I'm Juan, Front-End Web Developer from Las Vegas, NV. 
+I'm Juan, a Full-Stack Developer from Las Vegas, NV. 
 ___
 
 - 🔭 I’m currently working a Full stack React + Firebase application. 
