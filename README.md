@@ -52,7 +52,8 @@ Source Code: <a href="https://github.com/JuanMore/dope-setups"> Dope Setups </a>
 <p>Technology used: React, FirebaseDB, CSS</p>
 <img width="1413" alt="Screen Shot 2022-03-31 at 11 31 05 AM" src="https://user-images.githubusercontent.com/20747118/161126319-3059bcff-e16e-474d-9292-cd811d890ba7.png">
 
-  
+ <img width="1413" alt="Screen Shot 2022-03-31 at 11 45 06 AM" src="https://user-images.githubusercontent.com/20747118/161127449-138a8f39-11e0-48dc-8518-a531250849c8.png">
+
   
 <h4>3) React Github Profile App - Credit React Front to Back 2022 Brad Traversy</h4>
 
