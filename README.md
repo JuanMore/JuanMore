@@ -34,17 +34,26 @@ ___
 <h2>Latest Projects:</h2>
 
 <h4>1) Build Guild | A Custom PC Builder Community Platform</h4>
-View demo: <a href="https://buildguild.online/pages" target="_blank"> Build Guild </a>
+View demo: <a href="https://buildguild.online/pages" target="_blank"> buildguild.online </a>
 <br>
 Source Code: <a href="https://github.com/JuanMore/Build-Guild"> Build Guild Repo </a>
 <br>
 <br>
-<p>Technology used: HTML, CSS, Bootstrap, EJS, MongoDB, Passport.js; Node.js and Express.js
+<p>Technology used: HTML, CSS, Bootstrap, EJS, MongoDB, Passport.js; Node.js and Express.js</p>
  
 ![Screen Shot 2022-01-20 at 1 02 07 AM](https://user-images.githubusercontent.com/20747118/150307049-7203da2d-25ad-4da9-96fc-a7a66e412db1.png)
 
+<h4>2) DopeSetups | Upload Your Workstation</h4>
+View Demo:  <a href="https://www.dopesetups.com/" target="_blank"> dopestups.com </a>
+Source Code: <a href="https://github.com/JuanMore/dope-setups"> Dope Setups </a>
+
+<br>
+<p>Technology used: React, FirebaseDB, CSS</p>
+<img width="1413" alt="Screen Shot 2022-03-31 at 11 31 05 AM" src="https://user-images.githubusercontent.com/20747118/161126319-3059bcff-e16e-474d-9292-cd811d890ba7.png">
+
   
-<h4>2) React Github Profile App - Credit React Front to Back 2022 Brad Traversy</h4>
+  
+<h4>3) React Github Profile App - Credit React Front to Back 2022 Brad Traversy</h4>
 
 Deployed with Vercel at: https://reactgithubfinder-sable.vercel.app/user/JuanMore 
 <br />
