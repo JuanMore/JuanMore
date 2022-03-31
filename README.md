@@ -56,10 +56,9 @@ Source Code: <a href="https://github.com/JuanMore/dope-setups"> Dope Setups </a>
   
 <h4>3) React Github Profile App - Credit React Front to Back 2022 Brad Traversy</h4>
 
-Deployed with Vercel at: https://reactgithubfinder-sable.vercel.app/user/JuanMore 
+Deployed with Vercel at: <a href="https://reactgithubfinder-sable.vercel.app/user/JuanMore"> React Github Finder</a> 
 <br />
-Built with React, Tailwind CSS and DaisyUI 
-
+Technologies used: Built with React, Tailwind CSS and DaisyUI 
 
 <img width="1414" alt="Screen Shot 2022-01-05 at 4 19 30 PM" src="https://user-images.githubusercontent.com/20747118/148308504-18fc2cbf-8086-44d2-99fa-87f422ee4bd8.png">
 
