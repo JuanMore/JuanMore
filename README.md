@@ -47,7 +47,7 @@ Source Code: <a href="https://github.com/JuanMore/Build-Guild"> Build Guild Repo
 View Demo:  <a href="https://www.dopesetups.com/" target="_blank"> dopestups.com </a>
 <br>
 Source Code: <a href="https://github.com/JuanMore/dope-setups"> Dope Setups </a>
-
+<br>
 <br>
 <p>Technology used: React, FirebaseDB, CSS</p>
 <img width="1413" alt="Screen Shot 2022-03-31 at 11 31 05 AM" src="https://user-images.githubusercontent.com/20747118/161126319-3059bcff-e16e-474d-9292-cd811d890ba7.png">
