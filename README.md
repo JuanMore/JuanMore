@@ -4,11 +4,11 @@ ___
 
 - 🔭 I’m currently working on a full stack React + Firebase application. 
 - 🌱 I'm currenlty learning React.js and I have an interest in discovering SQL and Material UI.
-- 👯 I’m looking for a role as a Front-End Developer, Full Stack Developer or Junior Software Developer. 
+- 👯 I’m looking for my first official role as a Front-End Developer. 
 - 💬 Ask me about anything!
-- 📫 How to reach me: https://twitter.com/moreno_dev or info@juanmoreno.dev
-- ⚡ Check out: https://www.polywork.com/moreno_dev
-- ⚡ Fun facts: I'm a dad of one! I have an AS Degree in CS and I'm self-taught in Front-End Web Development; I love to go fishing, play airsoft and hiking.
+- 📫 How to reach me: info@juanmoreno.dev
+- ⚡ Check out: juanmoreno.dev
+- ⚡ Fun facts: I'm a Father of two boys! I love fishing, hiking and camping.
 
 ___
 <div align="center">
